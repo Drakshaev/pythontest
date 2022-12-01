@@ -8,3 +8,8 @@ def get(value):
 if __name__ == '__main__':
     value = int(input())
     print(get(value).upper())
+
+def plus(a,b):
+    return(a + b)
+if __name__ == '__main__':
+    print(2,2)
